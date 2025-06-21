@@ -1,0 +1,16 @@
+{
+  "name": "api-cnpjs",
+  "version": "1.0.0",
+  "description": "API para buscar dados de empresas por CNPJ",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Você",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "express": "^4.21.2"
+  },
+  "keywords": []
+}
